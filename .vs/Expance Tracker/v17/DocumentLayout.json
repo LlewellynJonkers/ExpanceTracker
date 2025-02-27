@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\expance tracker\\view\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|solutionrelative:view\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\expance tracker\\model\\expencecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|solutionrelative:model\\expencecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\expance tracker\\model\\expenceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|solutionrelative:model\\expenceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\expance tracker\\view\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|solutionrelative:view\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\expance tracker\\view\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|solutionrelative:view\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\expance tracker\\view\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|solutionrelative:view\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\expance tracker\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|solutionrelative:controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|c:\\users\\llewellyn\\source\\git\\expance tracker\\expance tracker\\expance tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{648889AD-C3BC-48E7-9255-24ED28D879E5}|Expance Tracker.csproj|solutionrelative:expance tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -18,12 +46,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenceCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Model\\ExpenceCategory.cs",
+              "RelativeDocumentMoniker": "Model\\ExpenceCategory.cs",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Model\\ExpenceCategory.cs",
+              "RelativeToolTip": "Model\\ExpenceCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:28:21.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenceItem.cs",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Model\\ExpenceItem.cs",
+              "RelativeDocumentMoniker": "Model\\ExpenceItem.cs",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Model\\ExpenceItem.cs",
+              "RelativeToolTip": "Model\\ExpenceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:27:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Expance Tracker",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "View\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "View\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAABA//////8bwBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:24:43.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "View\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\_ViewStart.cshtml",
+              "RelativeToolTip": "View\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:23:59.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "View\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\_ViewImports.cshtml",
+              "RelativeToolTip": "View\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:23:35.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "View\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\Home\\Index.cshtml",
+              "RelativeToolTip": "View\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:23:00.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controller\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Controller\\HomeController.cs",
+              "RelativeToolTip": "Controller\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:11:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expance Tracker.csproj",
               "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Expance Tracker.csproj",
               "RelativeDocumentMoniker": "Expance Tracker.csproj",
               "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Expance Tracker.csproj",
@@ -35,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
