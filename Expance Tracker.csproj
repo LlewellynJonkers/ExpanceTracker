@@ -7,4 +7,13 @@
     <RootNamespace>Expance_Tracker</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Controller\" />
+    <Folder Include="View\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\styles\" />
+    <Folder Include="wwwroot\scripts\" />
+  </ItemGroup>
+
 </Project>
