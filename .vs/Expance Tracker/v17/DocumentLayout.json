@@ -58,8 +58,7 @@
               "RelativeToolTip": "Model\\ExpenceCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:28:21.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:28:21.037Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Model\\ExpenceItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:27:05.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:27:05.063Z"
             },
             {
               "$type": "Document",
@@ -82,7 +80,7 @@
               "RelativeDocumentMoniker": "View\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Llewellyn\\source\\git\\Expance Tracker\\Expance Tracker\\View\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "View\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAQAAABA//////8bwBAAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAACAl5mZmZkCwBAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-27T13:24:43.836Z",
               "EditorCaption": ""
@@ -97,8 +95,7 @@
               "RelativeToolTip": "View\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T13:23:59.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:23:59.061Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "View\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T13:23:35.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:23:35.461Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "View\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T13:23:00.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:23:00.218Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Controller\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:11:07.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:11:07.604Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Expance Tracker.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T12:41:38.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T12:41:38.097Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:41:01.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T12:41:01.971Z"
             }
           ]
         }

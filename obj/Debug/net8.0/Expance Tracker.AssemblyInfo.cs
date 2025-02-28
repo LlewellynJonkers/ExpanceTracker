@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Expance Tracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ad89786f9476a724a304c24ad509e8106a1587")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e14e4ff098c694c65bdebaa2cac3cd1bddd9458")]
 [assembly: System.Reflection.AssemblyProductAttribute("Expance Tracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Expance Tracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
