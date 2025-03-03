@@ -8,50 +8,14 @@ C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\E
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Expance Tracker.runtimeconfig.json
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Expance Tracker.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Expance Tracker.pdb
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.csproj.AssemblyReference.cache
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.AssemblyInfoInputs.cache
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.AssemblyInfo.cs
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.csproj.CoreCompileInputs.cache
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.RazorAssemblyInfo.cache
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.RazorAssemblyInfo.cs
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.sourcelink.json
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\scopedcss\bundle\Expance Tracker.styles.css
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.Expance Tracker.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.Expance Tracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.build.Expance Tracker.props
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Expance Tracker.props
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Expance Tracker.props
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance .40B1C708.Up2Date
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\refint\Expance Tracker.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.pdb
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.genruntimeconfig.cache
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\ref\Expance Tracker.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Humanizer.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Build.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -62,10 +26,36 @@ C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\M
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
@@ -73,7 +63,6 @@ C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\M
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\NuGet.Common.dll
@@ -85,6 +74,7 @@ C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\N
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\NuGet.ProjectModel.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\NuGet.Protocol.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -92,11 +82,16 @@ C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\S
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\ar\Humanizer.resources.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -236,7 +231,55 @@ C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\r
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.csproj.AssemblyReference.cache
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.AssemblyInfoInputs.cache
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.AssemblyInfo.cs
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.RazorAssemblyInfo.cache
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.RazorAssemblyInfo.cs
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.sourcelink.json
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\scopedcss\bundle\Expance Tracker.styles.css
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.Expance Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.Expance Tracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.build.Expance Tracker.props
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Expance Tracker.props
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Expance Tracker.props
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance .40B1C708.Up2Date
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\refint\Expance Tracker.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.pdb
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\Expance Tracker.genruntimeconfig.cache
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\obj\Debug\net8.0\ref\Expance Tracker.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Llewellyn\source\git\Expance Tracker\Expance Tracker\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

@@ -1,4 +1,8 @@
+using Expance_Tracker.Data;
+using Expance_Tracker.Models;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
@@ -9,6 +13,26 @@ builder.Services.AddControllersWithViews(); // Register MVC services
 
 // Example: Registering a custom service (optional)
 // builder.Services.AddTransient<IMyService, MyService>();
+builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddDbContext<AppIdentityDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnectionString")))
+    ;
+builder.Services.AddIdentity<AppUser, IdentityRole>()
+    .AddEntityFrameworkStores<AppIdentityDbContext>()
+    .AddDefaultTokenProviders();
+
+// Configure the rest of your application services
+builder.Services.AddAuthentication()
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Account/Login";  // Custom login path
+        options.LogoutPath = "/Account/Logout"; // Custom logout path
+    });
+
 
 var app = builder.Build();
 
@@ -22,6 +46,7 @@ else
 {
     app.UseDeveloperExceptionPage(); // Show detailed errors in development
 }
+
 
 app.UseHttpsRedirection(); // Redirect HTTP requests to HTTPS
 app.UseStaticFiles(); // Serve static files (CSS, JS, images, etc.)

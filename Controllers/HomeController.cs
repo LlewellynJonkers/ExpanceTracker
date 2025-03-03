@@ -6,6 +6,7 @@ namespace Expance_Tracker.Controller
 {
     public class HomeController : Microsoft.AspNetCore.Mvc.Controller
     {
+        private readonly ILogger _logger;
         public IActionResult Index()
         {
             return View();

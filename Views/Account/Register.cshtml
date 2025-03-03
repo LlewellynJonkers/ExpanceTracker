@@ -1,0 +1,42 @@
+﻿@model RegisterModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+<form method="post" asp-action="Register" asp-controller="Register">
+    <div class="mb-3">
+        <label for="EmailAddress" class="form-label">Firstname</label>
+        <input type="email" class="form-control" asp-for=Firstname value="@Model.Firstname" id="Firstname" name="Firstname" aria-describedby="emailHelp">
+        <!-- <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div> -->
+    </div>
+    <div class="mb-3">
+        <label for="EmailAddress" class="form-label">Lastname</label>
+        <input type="email" class="form-control" asp-for=Lastname value="@Model.Lastname" id="Lastname" name="Lastname" aria-describedby="emailHelp">
+        <!-- <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div> -->
+    </div>
+    <div class="mb-3">
+        <label for="EmailAddress" class="form-label">Username</label>
+        <input type="email" class="form-control" asp-for=Username value="@Model.Username" id="Username" name="Username" aria-describedby="emailHelp">
+        <!-- <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div> -->
+    </div>
+    <div class="mb-3">
+        <label for="EmailAddress" class="form-label">Email address</label>
+        <input type="email" class="form-control" asp-for=Email value="@Model.Email" id="Email" name="Email" aria-describedby="emailHelp">
+        <!-- <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div> -->
+    </div>
+    <div class="mb-3">
+        <label for="EmailAddress" class="form-label">Telephone</label>
+        <input type="email" class="form-control" asp-for=Telephone value="@Model.Telephone" id="Telephone" name="Telephone" aria-describedby="emailHelp">
+        <!-- <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div> -->
+    </div>
+    <div class="mb-3">
+        <label for="Password" class="form-label">Password</label>
+        <input type="password" asp-for=Password value="@Model.Password" class="form-control" id="Password" name="Password">
+    </div>
+    <div class="mb-3">
+        <label for="Password" class="form-label">Confirm Password</label>
+        <input type="password" asp-for=Password value="@Model.Password" class="form-control" id="Password" name="Password">
+    </div>
+    <button type="submit" class="btn btn-primary disabled">Submit</button>
+</form>

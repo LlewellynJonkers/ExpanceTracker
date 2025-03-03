@@ -18,5 +18,6 @@ namespace Expance_Tracker.Models
         public decimal Price { get; set; }
         [Required]
         public string CategoryID { get; set; }
+        public string UserId { get; set; }
     }
 }
